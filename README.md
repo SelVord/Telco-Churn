@@ -169,8 +169,3 @@ telco_churn_analysis.ipynb
 ```
 
 ---
-
-# Author
-
-Aktilek Temirov
-Data Science Student
