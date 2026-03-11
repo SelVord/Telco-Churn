@@ -79,6 +79,7 @@ Key aspects explored in the dataset:
 Example visualization:
 
 ![EDA Example](images/01_target_distribution.png)
+![EDA Example](images/04_contract_billing_eda.png)
 
 ---
 
