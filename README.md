@@ -47,12 +47,11 @@ Target variable:
 ```
 telco-churn-prediction/
 
+
 README.md
 requirements.txt
 .gitignore
-
-notebooks/
-    telco_churn_analysis.ipynb
+telco_churn_analysis.ipynb
 
 data/
     telco_churn.csv
@@ -166,7 +165,7 @@ pip install -r requirements.txt
 Open the notebook:
 
 ```
-notebooks/telco_churn_analysis.ipynb
+telco_churn_analysis.ipynb
 ```
 
 ---
